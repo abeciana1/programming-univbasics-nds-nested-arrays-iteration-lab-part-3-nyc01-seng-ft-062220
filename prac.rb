@@ -24,3 +24,4 @@ def join_nested_strings(src)
   
 end
 
+join_nested_strings(mixed_data)
