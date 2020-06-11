@@ -6,6 +6,7 @@ mixed_data = [
 
 
 def join_nested_strings(src)
+  e
   outer_index = 0 
   while outer_index < src.length do
     inner_index = 0 
